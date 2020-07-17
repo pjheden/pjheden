@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily_quote starts -->
-**A ship is at its safest in the harbor, but that is not what it's built for**
+**A rocket moves a nation 🚀**
 <!-- daily_quote ends -->
