@@ -26,7 +26,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     md = random.choice([
         "**A rocket moves a nation 🚀**",
-        "**A ship is at its safest in the harbor, but that is not what it's built for**",
+        "**A ship in harbor is safe, but that is not what ships are built for ⚓️**",
         "**The moon moves the tide in mysterious ways**",
         "**The tide waits for no man 👨‍🚀**",
         ])
