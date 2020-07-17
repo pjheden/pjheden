@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- daily_quote starts -->
+**A rocket moves a nation twice 🚀**
+<!-- daily_quote ends -->
