@@ -1,6 +1,10 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import pathlib
 import re
 import os
+import random
 
 root = pathlib.Path(__file__).parent.resolve()
 
