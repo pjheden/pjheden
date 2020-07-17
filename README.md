@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily_quote starts -->
-**The tide waits for no man 👨‍🚀**
+**A ship is at its safest in the harbor, but that is not what it's built for**
 <!-- daily_quote ends -->
