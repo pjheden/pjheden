@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily_quote starts -->
-**A rocket moves a nation 🚀**
+**The moon moves the tide in mysterious ways**
 <!-- daily_quote ends -->
