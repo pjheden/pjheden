@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily_quote starts -->
-**The moon moves the tide in mysterious ways**
+**A ship in harbor is safe, but that is not what ships are built for ⚓️**
 <!-- daily_quote ends -->
