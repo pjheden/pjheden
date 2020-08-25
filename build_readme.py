@@ -22,15 +22,14 @@ def replace_chunk(content, marker, chunk):
 
 
 if __name__ == "__main__":
-    if random.randint(1,100) != 27:
-        return
-    readme = root / "README.md"
-    readme_contents = readme.open().read()
-    md = random.choice([
-        "**A rocket moves a nation 🚀**",
-        "**A ship in harbor is safe, but that is not what ships are built for ⚓️**",
-        "**The moon moves the tide in mysterious ways**",
-        "**The tide waits for no man 👨‍🚀**",
-        ])
-    rewritten = replace_chunk(readme_contents, "daily_quote", md)
-    readme.open("w").write(rewritten)
+    if random.randint(1,100) == 27:
+        readme = root / "README.md"
+        readme_contents = readme.open().read()
+        md = random.choice([
+            "**A rocket moves a nation 🚀**",
+            "**A ship in harbor is safe, but that is not what ships are built for ⚓️**",
+            "**The moon moves the tide in mysterious ways**",
+            "**The tide waits for no man 👨‍🚀**",
+            ])
+        rewritten = replace_chunk(readme_contents, "daily_quote", md)
+        readme.open("w").write(rewritten)
