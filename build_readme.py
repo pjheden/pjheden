@@ -22,6 +22,8 @@ def replace_chunk(content, marker, chunk):
 
 
 if __name__ == "__main__":
+    if random.randint(1,100) != 27:
+        return
     readme = root / "README.md"
     readme_contents = readme.open().read()
     md = random.choice([
